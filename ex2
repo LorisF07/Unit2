@@ -1,0 +1,85 @@
+<title>Pagge title</title>
+</head>
+<body>
+
+<h1>Exercitiul 2</h1>
+<p>Nume:Ferragosto Loris</p>
+<p>email:ferragostoloris18@gmail.com</p>
+<h2>Caracteristici retea</h2>
+
+<ul>
+  <li>Ethernet network</li>
+  <li>Viteza 1000mbs</li>
+  <li>Atribuire manuala</li>
+</ul>  
+
+<html>
+<style>
+
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Componente si Caracteristici </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Componentenle hardware al pcului </th>
+    <th>Model</th>
+    <th>Caracteristici</th>
+  </tr>
+  <tr>
+    <td>Procesor
+    <td>Intel i3 6100</td>
+    <td> 3.70GHz, , memorie cache3MB, Socket 1151</td>
+  </tr>
+  <tr>
+    <td>Placa video</td>
+    <td>Gigabyte Gtx 1060 3 gb</td>
+    <td>Slot PCI Express 3.0 16x,tip memorie GDDR5</td>
+  </tr>
+  <tr>
+  <td>Placa de baza</td>
+    <td>Gigabyte H110 M</td>
+    <td>Socket 1151,tip memorie ddr4 cu 2 sloturi RAM</td>
+  </tr>
+   <tr>
+  <td>RAM</td>
+    <td>Memorie Kingston FURY Beast</td>
+    <td>Capacitate 8gb,Frecventa 2666mhz</td>
+  </tr>
+  <td>Carcasa</td>
+    <td>Carcasa Segotep SG-K8</td>
+    <td>Mid tower,Matx,culoare neagra</td>
+  </tr>
+  <td>Sursa</td>
+    <td>Sursa Thermaltake Litepower</td>
+    <td>Putere sursa 650W,Format	ATX</td>
+  </tr>
+  
+  </tr>
+</table>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+</head>
+<body>
+
+<h2>Monitorizare resurse:</h2>
+
+<div>Google foloseste 16% din Cpu la utilizare si 55% Memory.</div>
+
+</body>
+</html>
+
+
+
+</body>
+</html>
