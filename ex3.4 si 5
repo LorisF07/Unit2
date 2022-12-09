@@ -1,0 +1,44 @@
+<body>
+
+<h1>Ex3,4 si 5</h1>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200;
+}
+</style>
+</head>
+<body>
+
+<h2>Monitorizare consum resurse Youtube.com(Google)</h2>
+
+<ul>
+  <li>Cpu</li>
+  <img src="1.png" alt="Italian Trulli">
+  <li>Disk</li>
+  <img src="2.png" alt="Italian Trulli">
+  <li>Network </li>
+  <img src="3.png" alt="Italian Trulli">
+  <li>Memory</li>
+  <img src="4.png" alt="Italian Trulli">
+  <li>Procceses with Network activity</li>
+  <img src="5.png" alt="Italian Trulli">
+  <li>Network Activity</li> 
+  <img src="6.png" alt="Italian Trulli">
+        
+</ul>  
+
+<html>
+<style>
+
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+
+</body>
+</html>
